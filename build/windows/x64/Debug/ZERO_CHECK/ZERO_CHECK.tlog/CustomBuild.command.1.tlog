@@ -1,0 +1,10 @@
+^D:\NABILA'S\UNI LIFE\3 - SMT 3\PPB\FLUTTER\PROJECT_PPB\WISATA_DETAIL\BUILD\WINDOWS\CMAKEFILES\724A362BAE26C28C7B6E7626ED43D726\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/windows" "-BD:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/build/windows/wisata_detail.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

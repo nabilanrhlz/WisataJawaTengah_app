@@ -1,0 +1,10 @@
+D:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/build/windows/CMakeFiles/INSTALL.dir
+D:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/build/windows/runner/CMakeFiles/wisata_detail.dir
+D:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/NABILA'S/Uni life/3 - SMT 3/PPB/FLUTTER/Project_PPB/wisata_detail/build/windows/runner/CMakeFiles/ALL_BUILD.dir

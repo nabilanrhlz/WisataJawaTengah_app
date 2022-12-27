@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\NABILA'S\Uni life\3 - SMT 3\PPB\FLUTTER\Project_PPB\wisata_detail\build\windows\CMakeFiles\1fd741cf211e8373b1b898543a97bdd6\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3D100248-1842-32B1-89A4-3A202ACB4870}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\NABILA'S\Uni life\3 - SMT 3\PPB\FLUTTER\Project_PPB\wisata_detail\build\windows\CMakeFiles\747095de2bf824a741e32d4df67dcea1\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\NABILA'S\Uni life\3 - SMT 3\PPB\FLUTTER\Project_PPB\wisata_detail\build\windows\CMakeFiles\53a61f3e7eb23ad5bb1f51da089753bc\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\NABILA'S\Uni life\3 - SMT 3\PPB\FLUTTER\Project_PPB\wisata_detail\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\NABILA'S\Uni life\3 - SMT 3\PPB\FLUTTER\Project_PPB\wisata_detail\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3D100248-1842-32B1-89A4-3A202ACB4870}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
