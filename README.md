@@ -1,4 +1,4 @@
-# wisata_detail
+# Wisata Jawa Tengah
 
 3.34.21.1.17_Nabila Norhaliza_IK2B 
 
